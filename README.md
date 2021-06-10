@@ -1,8 +1,8 @@
-# <img src="logo.svg" alt="OpenZeppelin" height="40px">
+
 
 [![Docs](https://img.shields.io/badge/docs-%F0%9F%93%84-blue)](https://docs.openzeppelin.com/contracts)
 [![NPM Package](https://img.shields.io/npm/v/@openzeppelin/contracts.svg)](https://www.npmjs.org/package/@openzeppelin/contracts)
-[![Coverage Status](https://codecov.io/gh/OpenZeppelin/openzeppelin-contracts/graph/badge.svg)](https://codecov.io/gh/OpenZeppelin/openzeppelin-contracts)
+
 
 **A library for secure smart contract development.** Build on a solid foundation of community-vetted code.
 
@@ -20,7 +20,7 @@
 $ npm install @openzeppelin/contracts
 ```
 
-OpenZeppelin Contracts features a [stable API](https://docs.openzeppelin.com/contracts/releases-stability#api-stability), which means your contracts won't break unexpectedly when upgrading to a newer minor version.
+
 
 ### Usage
 
